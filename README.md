@@ -1,13 +1,12 @@
-# Beethoven Piano Sonatas Dataset: Scripts 
+# Beethoven Piano Sonatas Dataset (BPSD): Scripts 
 
 Johannes Zeitler (johannes.zeitler@audiolabs-erlangen.de), 2024  
 
+Accompanying code for J. Zeitler, C. Weiß, V. Arifi-Müller, and M. Müller, “BPSD: A coherent multi-version dataset for analyzing the first movements of Beethoven’s piano sonatas.” Transactions of the International Society for Music Information Retrieval (TISMIR), submitted 2024.
+
 ## Overview
 
-This folder contains all scripts that are used to convert raw data
-(audio recordings, score information, annotations) into the structured
-format of the dataset. A maintained version of the code, including
-bugfixes, is available at https://github.com/groupmm/BPSD_scripts.
+This repository contains all scripts that are used to convert raw data (audio recordings, score information, annotations) into the structured format of the BPSD. All contents of this folder should be copied in ./3_Scripts/ in the BPSD folder structure.
 
 
 ## Prerequisites
