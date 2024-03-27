@@ -1,11 +1,8 @@
-##############################################################
-# Beethoven Piano Sonatas Dataset: Scripts                   #
-#                                                            #
-# Johannes Zeitler (johannes.zeitler@audiolabs-erlangen.de)  #
-# 2024                                                       #
-##############################################################
+# Beethoven Piano Sonatas Dataset: Scripts 
 
-# Overview
+Johannes Zeitler (johannes.zeitler@audiolabs-erlangen.de), 2024  
+
+## Overview
 
 This folder contains all scripts that are used to convert raw data
 (audio recordings, score information, annotations) into the structured
@@ -13,14 +10,14 @@ format of the dataset. A maintained version of the code, including
 bugfixes, is available at https://github.com/groupmm/BPSD_scripts.
 
 
-# Prerequisites
+## Prerequisites
 
 - A python installation with the packages specified in environment.yml. Individual scripts may not require all packages (e.g., pytorch is only used in 02_transcription).
 - A copy of the adapted onsets and frames code from https://github.com/benadar293/benadar293.github.io/
 - A copy of Sync Toolbox from https://github.com/meinardmueller/synctoolbox
 
 
-# Contents
+## Contents
 
 - 01_audio_modifications.ipynb: Copy audio files from 0_RawData/audio_ripped to 1_Audio, apply structural modifications if necessary
 - 02_transcription.ipynb: Transcribe all audio files using the NoteEM transcription model from Maman and Bermano
