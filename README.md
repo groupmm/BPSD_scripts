@@ -2,7 +2,7 @@
 
 Johannes Zeitler (johannes.zeitler@audiolabs-erlangen.de), 2024  
 
-Accompanying code for J. Zeitler, C. Weiß, V. Arifi-Müller, and M. Müller, “BPSD: A coherent multi-version dataset for analyzing the first movements of Beethoven’s piano sonatas.” Transactions of the International Society for Music Information Retrieval (TISMIR), submitted 2024.
+Accompanying code for J. Zeitler, C. Weiß, V. Arifi-Müller, and M. Müller, “BPSD: A coherent multi-version dataset for analyzing the first movements of Beethoven’s piano sonatas.” Transactions of the International Society for Music Information Retrieval, 7(1), 195-212, 2024.
 
 ## Overview
 
